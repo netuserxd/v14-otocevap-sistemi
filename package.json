@@ -1,12 +1,12 @@
 {
-  "name": "Just",
+  "name": "clausotocevap",
   "version": "1.0.0",
   "description": "V14 Oto cevap sistemi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JustNight",
+  "author": "Clausxq",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
