@@ -33,7 +33,7 @@ module.exports = {
     .setTitle("Oto Cevap")
     .setDescription("`・` Oto mesaj eklemek için **__Ekle__** butonuna bas\n`・` Oto mesaj silmek için **__Sil__** butonuna bas\n`・` Oto mesajları görmek için **__Oto Mesajlar__**")
     .setThumbnail(server.iconURL({ dynamic: true }))
-    .setFooter({ text: "JustNight" })
+    .setFooter({ text: "Netuser" })
 
     interaction.reply({embeds: [embed], components: [row]})
   }
